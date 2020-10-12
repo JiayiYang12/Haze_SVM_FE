@@ -1,0 +1,13 @@
+kernel,gamma,accuracy
+Linear,1,0.227
+Linear,2,0.227
+Linear,3,0.227
+Linear,4,0.227
+Poly,1,0.288
+Poly,2,0.413
+Poly,3,0.444
+Poly,4,0.442
+rbf,1,0.387
+rbf,2,0.387
+rbf,3,0.526
+rbf,4,0.532

@@ -1,0 +1,5 @@
+max_daily.csv  :  日最大值
+min_daily.csv : 日最小值
+pm2.5_test.csv : 
+pm2.5_train.csv
+UCI.csv :        这三个均为网上下载数据；

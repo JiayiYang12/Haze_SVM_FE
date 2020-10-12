@@ -1,0 +1,5 @@
+data_pro.csv   : 包含每个小时的各项特征数据；
+
+data_pro_after_label : 将data_pro.csv中pm2.5的数值换算成等级；
+
+data_pro_afterPCA.csv  : 将data_pro 中的数据进行PCA处理。
